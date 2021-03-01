@@ -1,5 +1,5 @@
 theme: minima
-title: Code and bee free
+title: Code and be free
 author: Johan Sundström
 email: serializr@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: serializr # DO NOT include the @ character, or else the build will fail!
 github_username:  serializr # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
