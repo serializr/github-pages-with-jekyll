@@ -10,6 +10,7 @@ According to these instructions it should be possible [linking to other posts](h
 Lets see. 
  - With prefix [My First Post]({% post_url /github-pages-with-jekyll/2021-03-02-hello-world %}) 
  - Without prefix [My First Post]({% post_url 2021-03-02-hello-world %}) 
+ - How about {% post_url 2021-03-02-hello-world %}
 
 Now I'm still confused, but on a higher level.
 
